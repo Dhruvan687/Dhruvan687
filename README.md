@@ -10,7 +10,7 @@ I'm a passionate and curious developer who enjoys turning ideas into reality usi
 - 🎓 Tech Stack: Full-stack & Android Developer  
 - 🛠 I love building real-world apps that solve interesting problems  
 - 🚀 Always excited to learn and work with the latest technologies  
-- 📫 Reach me at: [dhruvangandhi@example.com] *(replace with your real email)*
+- 📫 Reach me at: [dhruvangandhi687@gmail.com]
 
 ---
 
@@ -81,6 +81,5 @@ I'm a passionate and curious developer who enjoys turning ideas into reality usi
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=firefox-browser&logoColor=white&style=flat)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/dhruvan-gandhi/)  
 
