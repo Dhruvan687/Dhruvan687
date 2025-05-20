@@ -63,13 +63,6 @@ I'm a passionate and curious developer who enjoys turning ideas into reality usi
 
 ---
 
-## 📈 GitHub Stats
-
-![Dhruvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvangandhi687&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvangandhi687&layout=compact&theme=react)
-
----
 
 ## 🎮 Fun Facts
 
